@@ -1,5 +1,4 @@
-# plottingPython
-Applied Plotting, Charting &amp; Data Representation in Python
+# Applied Plotting, Charting & Data Representation in Python
 Course 2 of Specialization: Applied Data Science with Python by University of Michigan
 
 About this Course
